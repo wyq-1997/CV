@@ -1,6 +1,10 @@
 
 body {
 	background-color: #FFF1BD;
+	text-align: center;
+}
+table {
+	display: inline-block;
 }
 hr {
 	border-style: none;
@@ -19,4 +23,7 @@ h1 {
 
 h3 {
 	color: #146356;
+}
+.list {
+	display: inline-block;
 }
